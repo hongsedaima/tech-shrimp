@@ -1,3 +1,5 @@
+以下内容Fork自该项目：[https://github.com/tech-shrimp/me](https://github.com/tech-shrimp/me)
+
 
 我是<b>技术爬爬虾</b>，分享好玩实用软件DIY的科技博主
 <br>B站，抖音，公众号，Youtube全网同名
